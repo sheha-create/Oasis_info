@@ -1,0 +1,49 @@
+Date: 2025-12-19 20:36:43
+Name: shehana
+Weight: 72.0 kg
+Height: 182.0 m
+BMI: 0.00
+Category: Underweight
+------------------------------
+Date: 2025-12-19 20:37:23
+Name: rita
+Weight: 72.0 kg
+Height: 173.0 m
+BMI: 0.00
+Category: Underweight
+------------------------------
+Date: 2025-12-19 20:38:11
+Name: thars
+Weight: 78.0 kg
+Height: 133.0 m
+BMI: 0.00
+Category: Underweight
+------------------------------
+Date: 2025-12-19 20:39:12
+Name: sita
+Weight: 97.0 kg
+Height: 60.0 m
+BMI: 0.03
+Category: Underweight
+------------------------------
+Date: 2025-12-19 20:41:02
+Name: resi
+Weight: 45.0 kg
+Height: 1.34 m
+BMI: 25.06
+Category: Overweight
+------------------------------
+Date: 2025-12-23 18:35:55
+Name: shehana
+Weight: 56.0 kg
+Height: 1.56 m
+BMI: 23.01
+Category: Normal weight
+------------------------------
+Date: 2026-01-01 19:13:47
+Name: shehana
+Weight: 65.0 kg
+Height: 1.46 m
+BMI: 30.49
+Category: Obese
+------------------------------
