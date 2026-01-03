@@ -6,7 +6,7 @@
 import requests
 
 
-API_KEY = "ba134696a34ca3e2d58da0d5cb5826b1"
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 
