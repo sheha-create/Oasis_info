@@ -1,7 +1,4 @@
- #Weather Application using OpenWeatherMap API
-# Internship Project - OIBSIP
-# Author: Your Name
-# Description: Fetches and displays current weather information for a city
+
 
 import requests
 
