@@ -1,7 +1,4 @@
-# Secure Password Generator
-# Internship Project - OIBSIP
-# Author: Your Name
-# Description: Generates strong random passwords based on user preferences
+
 
 import secrets
 import string
