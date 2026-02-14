@@ -1,6 +1,4 @@
-# BMI Calculator with File Storage and ASCII Chart
-# Internship Project - OIBSIP
-# Author: m.shehana safreen
+
 
 
 from datetime import datetime
